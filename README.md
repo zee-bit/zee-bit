@@ -47,7 +47,7 @@
 
 You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student Developer from [BIT Mesra](https://bitmesra.ac.in), enthusiastic about Open Source and Problem-solving. I love to spend most of my time either solving problems on DSA, mingling with my linux workstation (very often breaking stuffs:pensive:) or learning some new technology. When I am relaxing I love to eat:yum: and watch web series simultaneously.
 
-<img align="right" alt="GIF" src="https://github.com/zee-bit/zee-bit/blob/main/code.gif?raw=true" width="450" height="310" />
+<img align="right" alt="GIF" src="https://github.com/zee-bit/zee-bit/blob/main/code.gif?raw=true" width="450" height="300" />
 
 #### Talking about Personal Stuffs:
 - 🔭 I’m currently working on IEEE Mega Project
@@ -64,9 +64,11 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+<br />
+
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My GitHub Stats**</summary>
   
-[![Zeeshan's github stats](https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=tokyonight)](https://github.com/zee-bit/github-readme-stats)
+[![Zeeshan's github stats](https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light)](https://github.com/zee-bit/github-readme-stats)
 
 </details>
