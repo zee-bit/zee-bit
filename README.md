@@ -71,7 +71,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light" alt="zee-bit-stats" width="400" height="210" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee-bit&layout=compact&theme=solarized-light" alt="zee-bit-top_langs" width="410" height="200" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light" alt="zee-bit-stats" width="410" height="230" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee-bit&layout=compact&theme=solarized-light" alt="zee-bit-top_langs" width="400" height="190" />
 
 </details>
