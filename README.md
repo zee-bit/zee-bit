@@ -49,8 +49,6 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 
 <img align="right" alt="GIF" src="https://github.com/zee-bit/zee-bit/blob/main/code.gif?raw=true" width="470" height="300" />
 
-<br />
-
 #### Talking about Personal Stuffs:
 - 🔭 I’m currently working on IEEE Mega Project
 - 🌱 I’m currently learning something interesting 
@@ -73,7 +71,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light" alt="zee-bit-stats" width="410" height="250" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee-bit&layout=compact&theme=solarized-light" alt="zee-bit-top_langs" width="400" height="190" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light" alt="zee-bit-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee-bit&layout=compact&theme=solarized-light" alt="zee-bit-top_langs" />
 
 </details>
