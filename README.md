@@ -1,16 +1,72 @@
-### Hi there 👋
+### Hi there 👋  
+<table>
+  <tr>
+    <td>
+      <a href="https://www.reddit.com/user/zean_7">
+        <img align="center" alt="Reddit" width="22px" src="https://simpleicons.org/icons/reddit.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/EqubalZeeshan">
+        <img align="center" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/zean7/">
+        <img align="center" alt="Leetcode" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img align="center" alt="Discord Server(Comming Soon!!)" width="22px" src="https://simpleicons.org/icons/discord.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/zean_7">
+        <img align="center" alt="Codechef" width="22px" src="https://simpleicons.org/icons/codechef.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/zean_7">
+        <img align="center" alt="Codeforces" width="22px" src="https://simpleicons.org/icons/codeforces.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/zean_7/">
+        <img align="center" alt="Leetcode" width="22px" src="https://simpleicons.org/icons/leetcode.svg" />
+      </a>
+    </td>
+    <td>
+      <img align="center" alt="visitor badge" width="90px" src="https://visitor-badge.glitch.me/badge?page_id=zee-bit.zee-bit" />
+    </td>
+  </tr>
+</table>
 
-<!--
-**zee-bit/zee-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student Developer from [BIT Mesra](https://bitmesra.ac.in), enthusiastic about Open Source and Problem-solving. I love to spend most of my time either solving problems on DSA, mingling with my linux workstation (very often breaking stuffs:pensive:) or learning some new technology. When I am relaxing I love to eat:yum: and watch web series simultaneously.
+
+<img align="right" alt="GIF" src="https://github.com/zee-bit/zee-bit/blob/main/code.gif?raw=true" width="450" height="310" />
+
+#### Talking about Personal Stuffs:
+- 🔭 I’m currently working on IEEE Mega Project
+- 🌱 I’m currently learning something interesting 
+- 💬 Ask me about Linux and life, and I'll be happy to help
+- ⚡ Fun fact: It took less code to send a man to space than to run a smartphone!
+
+**Languages and Tools:**
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+  
+[![Zeeshan's github stats](https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=tokyonight)](https://github.com/zee-bit/github-readme-stats)
+
+</details>
