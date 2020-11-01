@@ -71,7 +71,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light" alt="zee-bit-stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee-bit&layout=compact&theme=solarized-light" alt="zee-bit-top_langs" />
 
 </details>
