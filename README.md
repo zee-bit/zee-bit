@@ -50,7 +50,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 <img align="right" alt="GIF" src="https://github.com/zee-bit/zee-bit/blob/main/code.gif?raw=true" width="470" height="300" />
 
 #### Talking about Personal Stuffs:
-- 🔭 I’m currently working on IEEE Mega Project
+- 🔭 I’m currently working on Zulip Terminal
 - 🌱 I’m currently learning something interesting 
 - 💬 Ask me about Linux and life, and I'll be happy to help
 - ⚡ Fun fact: It took less code to send a man to space than to run a smartphone!
