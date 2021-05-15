@@ -30,10 +30,6 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 
 <br />
 
-**My CodeStats:**
-
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/zean_7?width=460&height=290&history_days=7&bg_color=F9F3ED&grid_color=bbbbbb)
-
 **Languages and Tools:**
 
 <code><img height="32" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -47,8 +43,12 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 
 <br />
 
+**My CodeStats:**
+
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/zean_7?width=460&height=290&history_days=7&bg_color=F9F3ED&grid_color=bbbbbb)
+
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 <strong>My GitHub Stats</strong></summary>
 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zee-bit&show_icons=true&theme=solarized-light" alt="zee-bit-stats" />
