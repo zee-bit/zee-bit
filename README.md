@@ -25,7 +25,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 #### Talking about Personal Stuffs:
 - 🔭 I’m currently working on [Zulip Terminal](https://github.com/zulip/zulip-terminal)
 - 🌱 I’m currently learning something interesting 
-- 💬 Ask me about Linux and life, and I'll be happy to help
+- 💬 Ask me about **Linux and life**, and I'll be happy to help
 - ⚡ Fun fact: It took less code to send a man to space than to run a smartphone!
 
 <br />
@@ -45,7 +45,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 
 **My CodeStats:**
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/zean_7?width=460&height=290&history_days=7&bg_color=F9F3ED&grid_color=bbbbbb)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/zean_7?width=530&height=300&history_days=14&bg_color=F9F3ED&grid_color=bbbbbb)
 
 <details>
 <summary>📈 <strong>My GitHub Stats</strong></summary>
