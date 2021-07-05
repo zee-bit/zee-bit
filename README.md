@@ -43,7 +43,7 @@ You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student 
 
 <br />
 
-**My CodeStats:**
+**My [CodeStats](https://codestats.net/users/zean_7):**
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/zean_7?width=530&height=300&history_days=14&bg_color=F9F3ED&grid_color=bbbbbb)
 
