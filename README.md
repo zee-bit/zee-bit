@@ -1,13 +1,16 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://chat.zulip.org/#narrow/pm-with/17719-user17719">
+  <img align="left" alt="Zulip server" width="20px" src="https://cdn.worldvectorlogo.com/logos/zulip.svg" />
+</a>
+<a href="https://www.linkedin.com/in/zean7/">
+  <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://discord.gg/python">
   <img align="left" alt="Python server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/EqubalZeeshan">
   <img align="left" alt="Zeeshan Equbal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/zean7/">
-  <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/qkmgw1ytnbmfk99lzaomziao5">
   <img align="left" alt="Zeeshan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
