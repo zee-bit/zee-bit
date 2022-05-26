@@ -13,7 +13,7 @@
   <img align="left" alt="Zeeshan Equbal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/qkmgw1ytnbmfk99lzaomziao5">
-  <img align="left" alt="Zeeshan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Zeeshan's Spotify" width="22px" src="https://user-images.githubusercontent.com/54993043/170563026-38bfb7de-53e4-48f1-ae26-75b664a99351.png" />
 </a>
 
 <img align="center" alt="visitor badge" width="90px" src="https://visitor-badge.glitch.me/badge?page_id=zee-bit.zee-bit" />
