@@ -4,24 +4,28 @@
   <img align="left" alt="Zulip server" width="20px" src="https://cdn.worldvectorlogo.com/logos/zulip.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zean7/">
-  <img align="left" alt="Zeeshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Zeeshan's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.gg/python">
-  <img align="left" alt="Python server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Python server" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/EqubalZeeshan">
-  <img align="left" alt="Zeeshan Equbal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Zeeshan Equbal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/qkmgw1ytnbmfk99lzaomziao5">
-  <img align="left" alt="Zeeshan's Spotify" width="22px" src="https://user-images.githubusercontent.com/54993043/170563026-38bfb7de-53e4-48f1-ae26-75b664a99351.png" />
+  <img align="left" alt="Zeeshan's Spotify" width="25px" src="https://user-images.githubusercontent.com/54993043/170563026-38bfb7de-53e4-48f1-ae26-75b664a99351.png" />
 </a>
+<a href="https://leetcode.com/zean_7/">
+  <img align="left" alt="leetcode profile" width="28px" src="https://user-images.githubusercontent.com/54993043/170565270-7c44b618-f506-418e-a1c8-26f9f0d1bce2.png" />
+</a>
+
 
 <img align="center" alt="visitor badge" width="90px" src="https://visitor-badge.glitch.me/badge?page_id=zee-bit.zee-bit" />
 
 <hr />
 
 
-You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student Developer from [BIT Mesra](https://bitmesra.ac.in), enthusiastic about Open Source and Problem-solving. I love to spend most of my time either solving problems on DSA, mingling with my linux workstation (very often breaking stuffs:pensive:) or learning some new technology. When I am relaxing I love to eat:yum: and watch web series simultaneously.
+You have landed at the profile of [Zeeshan Equbal](https://zean7.me). A Student Developer from [BIT Mesra](https://bitmesra.ac.in), enthusiastic about Open Source and Problem-solving. I love to spend most of my time either solving problems on DSA, mingling with my linux workstation (very often breaking stuffs:pensive:) or learning some new technology. While relaxing, I prefer listening to Indie songs or watching web series.
 
 <img align="right" alt="GIF" src="https://github.com/zee-bit/zee-bit/blob/main/code.gif?raw=true" width="470" height="300" />
 
