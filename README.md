@@ -1,4 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 👋
+
+<!-- <img width="1px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> -->
 
 <a href="https://chat.zulip.org/#narrow/pm-with/17719-user17719">
   <img align="left" alt="Zulip server" width="20px" src="https://cdn.worldvectorlogo.com/logos/zulip.svg" />
