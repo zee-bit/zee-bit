@@ -6,13 +6,13 @@
   <img align="left" alt="Zulip server" width="20px" src="https://cdn.worldvectorlogo.com/logos/zulip.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zean7/">
-  <img align="left" alt="Zeeshan's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Zeeshan's LinkedIN" width="25px" src="https://s.magecdn.com/social/tc-linkedin.svg" />
 </a>
 <a href="https://discord.gg/python">
-  <img align="left" alt="Python server" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Python server" width="25px" src="https://s.magecdn.com/social/tc-discord.svg" />
 </a>
 <a href="https://twitter.com/EqubalZeeshan">
-  <img align="left" alt="Zeeshan Equbal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Zeeshan Equbal | Twitter" width="25px" src="https://s.magecdn.com/social/tc-x.svg" />
 </a>
 <a href="https://open.spotify.com/user/qkmgw1ytnbmfk99lzaomziao5">
   <img align="left" alt="Zeeshan's Spotify" width="25px" src="https://user-images.githubusercontent.com/54993043/170563026-38bfb7de-53e4-48f1-ae26-75b664a99351.png" />
